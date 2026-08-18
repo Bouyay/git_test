@@ -1,2 +1,2 @@
-# oding-project-foundations
+# git_test
 Foundations lesson for the Odin Project
