@@ -1,0 +1,33 @@
+* {
+    color: black;
+}
+
+div {
+    color: white;
+}
+
+.alert-text {
+    color: magenta;
+}
+
+#title {
+    background-color: gray;
+}
+
+.subsection.header {
+  color: purple;
+}
+
+.subsection#preview {
+  color: blue;
+}
+
+.ancestor .contents {
+  color: brown;
+  font-weight: 400;
+}
+
+.contents .contents {
+  color: yellowgreen;
+  font-weight: 400;
+}
